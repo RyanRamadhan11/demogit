@@ -3,3 +3,4 @@ let aku = "saya"
 
 
 let waw = "wawn"
+let ryn = "ryn"
